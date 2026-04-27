@@ -93,7 +93,7 @@ Access the interactive dashboard here: [**Heart Disease Predictor App**](https:/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/heart-disease-prediction.git
+git clone https://github.com/ananthanarayanan1284/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
