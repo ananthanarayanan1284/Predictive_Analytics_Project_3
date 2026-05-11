@@ -44,7 +44,7 @@ Heart disease is the leading cause of death worldwide. This project builds a Mac
 ---
 
 ## 🚀 Live Demo
-Access the interactive dashboard here: [**Heart Disease Predictor App**](https://your-app-name.streamlit.app/)
+Access the interactive dashboard here: [**Heart Disease Predictor App**](https://heart-disease-prediction2.streamlit.app/)
 
 ---
 
